@@ -20,3 +20,6 @@ This online course provided in Coursera by Standford and DeepLearning.ai is a gr
 
 ### Image Embedding
 - [Image Analytics for Everyone: Image Embeddings with Orange](https://towardsdatascience.com/image-analytics-for-everyone-image-embeddings-with-orange-7f0b91fa2ca2)
+
+### Convolutional Neural Network
+- <img src="https://cdn.cdnlogo.com/logos/y/92/youtube.svg" height="15"> [Simple explanation of Convulutional Neural Network | Deep Learning Tutorial 23 (Tensorflow & Python)](https://youtu.be/zfiSAzpy9NM)
