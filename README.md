@@ -42,8 +42,8 @@ This online course provided in Coursera by Standford and DeepLearning.ai is a gr
 
 - Siamese Networks section in [Contrastive Loss Explained](https://towardsdatascience.com/contrastive-loss-explaned-159f2d4a87ec)
 
-### ❗ Constrastive Loss
+### ❗ All Cost Functions
 
-- [Contrastive Loss Explained](https://towardsdatascience.com/contrastive-loss-explaned-159f2d4a87ec)
+- [Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names](https://gombru.github.io/2019/04/03/ranking_loss/)
 
 
