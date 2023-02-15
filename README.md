@@ -27,8 +27,16 @@ This online course provided in Coursera by Standford and DeepLearning.ai is a gr
 ## 💬 Topics
 
 ### 📊 Convolutional Neural Network
+
 - <img src="https://cdn.cdnlogo.com/logos/y/92/youtube.svg" height="15" /> [Simple explanation of Convulutional Neural Network | Deep Learning Tutorial 23 (Tensorflow & Python)](https://youtu.be/zfiSAzpy9NM)
 
 ### 🖼️ Image Embedding
+
 - [Image Analytics for Everyone: Image Embeddings with Orange](https://towardsdatascience.com/image-analytics-for-everyone-image-embeddings-with-orange-7f0b91fa2ca2)
 
+### 👀 Discriminative Feature
+
+Discriminative feature is related to making statements based on opinion; back them up with references or personal experience.
+E.g., when classifying portriait photos as being of men or women, one discriminative feature could be hair length.
+
+More simple detail about discriminativ feature: [Link](https://stats.stackexchange.com/questions/489361/what-is-a-discriminative-feature)
