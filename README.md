@@ -18,8 +18,16 @@ This online course provided in Coursera by Standford and DeepLearning.ai is a gr
 
 ## Topics
 
+### AI vs Machine Learning vs Deep Learning
+
+AI is a superset of Machine Learning and Deep Learning.
+Machine learning is a superset of Deep Learning.
+
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/03/AI-vs-ML-vs-Deep-Learning-768x323.png" height="200" />
+<h5>source: edureka!</h5>
+
 ### Image Embedding
 - [Image Analytics for Everyone: Image Embeddings with Orange](https://towardsdatascience.com/image-analytics-for-everyone-image-embeddings-with-orange-7f0b91fa2ca2)
 
 ### Convolutional Neural Network
-- <img src="https://cdn.cdnlogo.com/logos/y/92/youtube.svg" height="15"> [Simple explanation of Convulutional Neural Network | Deep Learning Tutorial 23 (Tensorflow & Python)](https://youtu.be/zfiSAzpy9NM)
+- <img src="https://cdn.cdnlogo.com/logos/y/92/youtube.svg" height="15" /> [Simple explanation of Convulutional Neural Network | Deep Learning Tutorial 23 (Tensorflow & Python)](https://youtu.be/zfiSAzpy9NM)
