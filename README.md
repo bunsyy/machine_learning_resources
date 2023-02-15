@@ -38,6 +38,10 @@ This online course provided in Coursera by Standford and DeepLearning.ai is a gr
 
 - [What is a discriminative feature?](https://stats.stackexchange.com/questions/489361/what-is-a-discriminative-feature)
 
+### 👥 Siamese Networks
+
+- Siamese Networks section in [Contrastive Loss Explained](https://towardsdatascience.com/contrastive-loss-explaned-159f2d4a87ec)
+
 ### ❗ Constrastive Loss
 
 - [Contrastive Loss Explained](https://towardsdatascience.com/contrastive-loss-explaned-159f2d4a87ec)
