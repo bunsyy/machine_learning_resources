@@ -36,7 +36,5 @@ This online course provided in Coursera by Standford and DeepLearning.ai is a gr
 
 ### 👀 Discriminative Feature
 
-Discriminative feature is related to making statements based on opinion; back them up with references or personal experience.
-E.g., when classifying portriait photos as being of men or women, one discriminative feature could be hair length.
+- [What is a discriminative feature?](https://stats.stackexchange.com/questions/489361/what-is-a-discriminative-feature)
 
-More simple detail about discriminativ feature: [Link](https://stats.stackexchange.com/questions/489361/what-is-a-discriminative-feature)
